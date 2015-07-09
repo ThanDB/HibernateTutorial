@@ -1,2 +1,0 @@
-# HibernateTutorial
-Study Hibernate
